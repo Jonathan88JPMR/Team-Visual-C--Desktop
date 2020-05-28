@@ -1,2 +1,2 @@
-# Team-Visual-C-Desktop
+# Team-Visual-C#-Desktop
 Aplicaciones con C#
